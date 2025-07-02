@@ -1,1 +1,3 @@
-# Demo-thobian
+# Van Leeuwen App
+
+Een luxe juweliersapp voor klantenbeleving.
